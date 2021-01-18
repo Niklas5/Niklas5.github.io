@@ -51190,7 +51190,7 @@ k=B.acO(null,null,null,null,null,null,null,null,null,null,null,null,null)
 k.a="POST"
 f=P
 s=4
-return P.W(h.kv(0,"http://127.0.0.1:5000/classify/",null,l,null,null,k,null,m),$async$$0)
+return P.W(h.kv(0,"https://mask-classifier-api.herokuapp.com/classify/",null,l,null,null,k,null,m),$async$$0)
 case 4:f.jr(b)
 return P.a4(null,r)}})
 return P.a5($async$$0,r)},
