@@ -57697,7 +57697,7 @@ aY:function(){var s=t.z
 return new V.EB(new N.bY(null,t.Ek),P.r(s,s),C.n)}}
 V.EB.prototype={
 W:function(a4,a5){var s,r,q,p,o,n,m,l,k,j,i,h=this,g=null,f=a5.aj(t.w).f.a,e=f.b,d=f.a,c=T.bW(M.ca(g,g,g,g,g,g,g,g,g,g),4),b=T.bW(M.ca(g,g,g,g,g,g,g,g,g,g),2),a=T.bW(L.eA("Welcome to the Face Mask Detector!",B.er(C.J.h(0,100),60,C.l),g),4),a0=C.J.h(0,300),a1=C.J.h(0,100),a2=C.J.h(0,100),a3=t.fQ
-a2=M.ca(g,new T.mB(C.pa,T.a3r(H.a([c,T.bW(T.Ky(H.a([b,a,new A.hQ(C.J.h(0,300),a1,new Y.dr(a0,4,C.L),new V.YI(h),g,g,g,g,g,g,C.m,g,g,g,g,a2,g,g,g,g,g,g,L.eA("GO",B.er(C.J.h(0,300),30,C.lB),g),C.vW,g,g,C.I,g,!1,g,g,g),T.bW(M.ca(g,g,g,g,g,g,g,g,g,g),4)],a3),C.hn,C.d0),2)],a3),C.hn,C.d0),g),g,g,new S.ej(g,new X.xb(new L.oJ("person_mask.jpg"),C.oF),g,g,g,g,C.ax),e,g,g,g,d)
+a2=M.ca(g,new T.mB(C.pa,T.a3r(H.a([c,T.bW(T.Ky(H.a([b,a,new A.hQ(C.J.h(0,300),a1,new Y.dr(a0,4,C.L),new V.YI(h),g,g,g,g,g,g,C.m,g,g,g,g,a2,g,g,g,g,g,g,L.eA("GO",B.er(C.J.h(0,300),30,C.lB),g),C.vW,g,g,C.I,g,!1,g,g,g),T.bW(M.ca(g,g,g,g,g,g,g,g,g,g),4)],a3),C.hn,C.d0),2)],a3),C.hn,C.d0),g),g,g,new S.ej(g,new X.xb(new L.oJ("assets/person_mask.jpg"),C.oF),g,g,g,g,C.ax),e,g,g,g,d)
 a0=C.az.h(0,100)
 a1=e*0.05
 a=T.l1(g,a1,g)
