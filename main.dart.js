@@ -57696,46 +57696,47 @@ V.pX.prototype={
 aY:function(){var s=t.z
 return new V.EC(new N.bY(null,t.Ek),P.r(s,s),C.n)}}
 V.EC.prototype={
-W:function(a6,a7){var s,r,q,p,o,n,m,l,k,j,i,h=this,g=null,f=a7.aj(t.w).f.a,e=f.a,d=f.b,c=d/100,b=T.bW(M.ca(g,g,g,g,g,g,g,g,g,g),3),a=T.bW(M.ca(g,g,g,g,g,g,g,g,g,g),2),a0=L.eA("Welcome to the Face Mask Detector!",B.er(C.J.h(0,100),c*9,C.l),g),a1=C.J.h(0,300),a2=C.J.h(0,100),a3=C.J.h(0,100),a4=c*6,a5=t.fQ
+W:function(a6,a7){var s,r,q,p,o,n,m,l,k,j,i,h=this,g=null,f=a7.aj(t.w).f.a,e=f.a,d=f.b,c=d/100,b=T.bW(M.ca(g,g,g,g,g,g,g,g,g,g),3),a=T.bW(M.ca(g,g,g,g,g,g,g,g,g,g),2),a0=L.eA("Welcome to the Face Mask Detector!",B.er(C.J.h(0,100),c*8,C.l),g),a1=C.J.h(0,300),a2=C.J.h(0,100),a3=C.J.h(0,100),a4=c*5,a5=t.fQ
 a3=M.ca(g,new T.kH(C.pa,T.a3r(H.a([b,T.bW(T.wV(H.a([a,T.bW(T.wV(H.a([a0,new T.kH(C.vV,new A.hQ(C.J.h(0,300),a2,new Y.dr(a1,4,C.L),new V.YI(h),g,g,g,g,g,g,C.m,g,g,g,g,a3,g,g,g,g,g,g,L.eA("GO",B.er(C.J.h(0,300),a4,C.lB),g),C.vX,g,g,C.I,g,!1,g,g,g),g)],a5),C.eU,C.bY),7),T.bW(M.ca(g,g,g,g,g,g,g,g,g,g),3)],a5),C.eU,C.bY),2)],a5),C.eU,C.bY),g),g,g,new S.ej(g,new X.xc(new L.oJ("./assets/person_mask.jpg"),C.oF),g,g,g,g,C.ax),d,g,g,g,e)
 a1=C.az.h(0,100)
 a2=d*0.05
 a0=T.l2(g,a2,g)
-a=L.eA("Is the person wearing a mask? Let's find out!",B.er(C.J.h(0,800),c*7,C.aD),g)
-b=L.eA("Note: Uploading images may take a while, please be patient.",B.er(C.J.h(0,800),c*3,C.f3),g)
-s=T.l2(g,d*0.1,g)
-r=T.bW(M.ca(g,g,g,g,g,g,g,g,g,g),2)
-q=e*0.05
-p=C.J.h(0,300)
-p=T.bW(M.ca(g,T.p1(L.eA("1",B.er(C.J.h(0,100),a4,C.l),C.hc),g,g),g,g,new S.ej(p,g,g,g,g,g,C.bb),q,g,g,g,q),2)
-o=c*4
-n=T.bW(L.eA("Upload Image",B.er(C.J.h(0,800),o,C.l),g),3)
-m=T.bW(M.ca(g,g,g,g,g,g,g,g,g,g),1)
-if(h.f){l=U.a5T()
-l=T.bW(T.p1(T.wV(H.a([l,L.eA("Uploading Image...",B.er(C.J.h(0,300),c*2,C.f3),g)],a5),C.eV,C.bY),g,g),2)}else l=T.bW(D.a3p(g,!1,L.eA("Upload",B.er(C.C,o,C.l),g),C.I,C.J.h(0,300),g,g,g,g,g,g,g,g,g,g,g,g,g,g,g,new V.YJ(h,f),C.pc,g,g,g,g),2)
+a=L.eA("Is the person wearing a mask? Let's find out!",B.er(C.J.h(0,800),c*6,C.aD),g)
+b=c*2
+s=L.eA("Note: Uploading images may take a while, please be patient.",B.er(C.J.h(0,800),b,C.f3),g)
+r=T.l2(g,d*0.1,g)
+q=T.bW(M.ca(g,g,g,g,g,g,g,g,g,g),2)
+p=e*0.05
+o=C.J.h(0,300)
+o=T.bW(M.ca(g,T.p1(L.eA("1",B.er(C.J.h(0,100),a4,C.l),C.hc),g,g),g,g,new S.ej(o,g,g,g,g,g,C.bb),p,g,g,g,p),2)
+n=c*3
+m=T.bW(L.eA("Upload Image",B.er(C.J.h(0,800),n,C.l),g),3)
+l=T.bW(M.ca(g,g,g,g,g,g,g,g,g,g),1)
+if(h.f){k=U.a5T()
+b=T.bW(T.p1(T.wV(H.a([k,L.eA("Uploading Image...",B.er(C.J.h(0,300),b,C.f3),g)],a5),C.eV,C.bY),g,g),2)}else b=T.bW(D.a3p(g,!1,L.eA("Upload",B.er(C.C,n,C.l),g),C.I,C.J.h(0,300),g,g,g,g,g,g,g,g,g,g,g,g,g,g,g,new V.YJ(h,f),C.pc,g,g,g,g),2)
 k=T.bW(M.ca(g,g,g,g,g,g,g,g,g,g),2)
 if(h.r)if(h.f)j=T.bW(M.ca(g,g,g,g,g,g,g,g,g,g),4)
 else{j=h.e?"Image successfully uploaded!":"Upload failed!"
-j=T.bW(L.eA(j,B.er(C.J.h(0,800),o,C.l),g),4)}else j=T.bW(M.ca(g,g,g,g,g,g,g,g,g,g),4)
-j=T.a3r(H.a([r,p,n,m,l,k,j,T.bW(M.ca(g,g,g,g,g,g,g,g,g,g),2)],a5),C.eV,C.qw)
+j=T.bW(L.eA(j,B.er(C.J.h(0,800),n,C.l),g),4)}else j=T.bW(M.ca(g,g,g,g,g,g,g,g,g,g),4)
+j=T.a3r(H.a([q,o,m,l,b,k,j,T.bW(M.ca(g,g,g,g,g,g,g,g,g,g),2)],a5),C.eV,C.qw)
 a2=T.l2(g,a2,g)
 k=h.db
-r=M.ca(g,k==null?M.ca(g,g,g,g,g,g,g,g,g,g):k,g,g,g,g,g,g,g,g)
-p=T.bW(M.ca(g,g,g,g,g,g,g,g,g,g),2)
-n=C.J.h(0,300)
-q=T.bW(M.ca(g,T.p1(L.eA("2",B.er(C.J.h(0,100),a4,C.l),C.hc),g,g),g,g,new S.ej(n,g,g,g,g,g,C.bb),q,g,g,g,q),2)
-n=T.bW(L.eA("Classify Image",B.er(C.J.h(0,800),o,C.l),g),3)
+b=M.ca(g,k==null?M.ca(g,g,g,g,g,g,g,g,g,g):k,g,g,g,g,g,g,g,g)
+q=T.bW(M.ca(g,g,g,g,g,g,g,g,g,g),2)
+o=C.J.h(0,300)
+p=T.bW(M.ca(g,T.p1(L.eA("2",B.er(C.J.h(0,100),a4,C.l),C.hc),g,g),g,g,new S.ej(o,g,g,g,g,g,C.bb),p,g,g,g,p),2)
+o=T.bW(L.eA("Classify Image",B.er(C.J.h(0,800),n,C.l),g),3)
 a4=T.bW(M.ca(g,g,g,g,g,g,g,g,g,g),1)
 if(h.x)m=T.bW(T.p1(U.a5T(),g,g),2)
 else{m=C.J.h(0,300)
-m=T.bW(D.a3p(g,!1,L.eA("Classify",B.er(C.C,o,C.l),g),C.I,m,g,g,g,g,g,g,g,g,g,g,g,g,g,g,g,new V.YK(h),C.pc,g,g,g,g),2)}l=T.bW(M.ca(g,g,g,g,g,g,g,g,g,g),2)
-if(h.x)o=T.bW(M.ca(g,g,g,g,g,g,g,g,g,g),4)
+m=T.bW(D.a3p(g,!1,L.eA("Classify",B.er(C.C,n,C.l),g),C.I,m,g,g,g,g,g,g,g,g,g,g,g,g,g,g,g,new V.YK(h),C.pc,g,g,g,g),2)}l=T.bW(M.ca(g,g,g,g,g,g,g,g,g,g),2)
+if(h.x)n=T.bW(M.ca(g,g,g,g,g,g,g,g,g,g),4)
 else{if(h.z){if(h.y){k="The person wears "+H.c($.alY.h(0,h.cx.a))+" with confidence of "
 i=h.cx
 i=k+H.c(J.acZ(J.a5k(J.aU(i.c,i.b),100)))+" %"
 k=i}else k="Classification failed!"
-o=L.eA(k,B.er(C.J.h(0,800),o,C.l),g)}else o=M.ca(g,g,g,g,g,g,g,g,g,g)
-o=T.bW(o,4)}a5=T.wV(H.a([a3,M.ca(g,T.wV(H.a([a0,a,b,s,j,a2,r,T.a3r(H.a([p,q,n,a4,m,l,o,T.bW(M.ca(g,g,g,g,g,g,g,g,g,g),2)],a5),C.eV,C.bY)],a5),C.eV,C.bY),a1,g,g,d,h.d,g,C.pa,e)],a5),C.eV,C.bY)
+n=L.eA(k,B.er(C.J.h(0,800),n,C.l),g)}else n=M.ca(g,g,g,g,g,g,g,g,g,g)
+n=T.bW(n,4)}a5=T.wV(H.a([a3,M.ca(g,T.wV(H.a([a0,a,s,r,j,a2,b,T.a3r(H.a([q,p,o,a4,m,l,n,T.bW(M.ca(g,g,g,g,g,g,g,g,g,g),2)],a5),C.eV,C.bY)],a5),C.eV,C.bY),a1,g,g,d,h.d,g,C.pa,e)],a5),C.eV,C.bY)
 return new M.rx(new E.Bz(!0,a5,g),g)}}
 V.YI.prototype={
 $0:function(){return P.ck([F.a3s($.bE.h(0,this.a.d),0,C.nP,P.ci(0,0,1))],t.oO)},
@@ -57743,15 +57744,15 @@ $S:330}
 V.YJ.prototype={
 $0:function(){var s=0,r=P.a7(t.P),q=this,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a,a0,a1
 var $async$$0=P.a1(function(a2,a3){if(a2===1)return P.a4(a3,r)
-while(true)switch(s){case 0:s=2
+while(true)switch(s){case 0:a0=q.a
+a0.aJ(new V.YE(a0))
+a1=J
+s=2
 return P.a3($.ab_().nr(!0,C.pe),$async$$0)
-case 2:a0=a3
-a1=q.a
-a1.aJ(new V.YE(a1))
-p=J.w5(a0.a)
+case 2:p=a1.w5(a3.a)
 o=p.e
 n=p.c
-if(o>2e6){a1.aJ(new V.YF(a1))
+if(o>2e6){a0.aJ(new V.YF(a0))
 m=K.al9(N.alg(n),400)
 o=new Uint8Array(64)
 n=new Uint8Array(64)
@@ -57783,12 +57784,12 @@ o.Qe()
 o.Io(50)
 c=o.VU(m)
 b=C.ln.geZ().bp(c)
-a1.aJ(new V.YG(a1))}else b=C.ln.geZ().bp(n)
+a0.aJ(new V.YG(a0))}else b=C.ln.geZ().bp(n)
 o=t.X
 s=3
 return P.a3(G.alW("https://mask-detetector-api.herokuapp.com/classify",P.au(["image",b],o,o)),$async$$0)
 case 3:a=a3
-a1.aJ(new V.YH(a1,a,q.b,p))
+a0.aJ(new V.YH(a0,a,q.b,p))
 P.eg(B.aad(U.a9g(a.e).c.a.h(0,"charset")).ce(0,a.x))
 P.eg(a.b)
 return P.a5(null,r)}})
@@ -57796,7 +57797,8 @@ return P.a6($async$$0,r)},
 $S:89}
 V.YE.prototype={
 $0:function(){var s=this.a
-s.f=s.r=!0},
+s.f=s.r=!0
+s.z=!1},
 $S:2}
 V.YF.prototype={
 $0:function(){this.a.Q=!0},
